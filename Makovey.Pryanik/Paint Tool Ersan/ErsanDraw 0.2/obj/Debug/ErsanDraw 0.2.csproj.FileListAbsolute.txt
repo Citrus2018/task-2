@@ -1,0 +1,10 @@
+M:\repos\Visial Studio\ErsanDraw0.1\ErsanDraw 0.2\ErsanDraw 0.2\bin\Debug\ErsanDraw 0.2.exe.config
+M:\repos\Visial Studio\ErsanDraw0.1\ErsanDraw 0.2\ErsanDraw 0.2\bin\Debug\ErsanDraw 0.2.exe
+M:\repos\Visial Studio\ErsanDraw0.1\ErsanDraw 0.2\ErsanDraw 0.2\bin\Debug\ErsanDraw 0.2.pdb
+M:\repos\Visial Studio\ErsanDraw0.1\ErsanDraw 0.2\ErsanDraw 0.2\obj\Debug\ErsanDraw 0.2.csprojAssemblyReference.cache
+M:\repos\Visial Studio\ErsanDraw0.1\ErsanDraw 0.2\ErsanDraw 0.2\obj\Debug\ErsanDraw_0._2.Form1.resources
+M:\repos\Visial Studio\ErsanDraw0.1\ErsanDraw 0.2\ErsanDraw 0.2\obj\Debug\ErsanDraw_0._2.Properties.Resources.resources
+M:\repos\Visial Studio\ErsanDraw0.1\ErsanDraw 0.2\ErsanDraw 0.2\obj\Debug\ErsanDraw 0.2.csproj.GenerateResource.cache
+M:\repos\Visial Studio\ErsanDraw0.1\ErsanDraw 0.2\ErsanDraw 0.2\obj\Debug\ErsanDraw 0.2.csproj.CoreCompileInputs.cache
+M:\repos\Visial Studio\ErsanDraw0.1\ErsanDraw 0.2\ErsanDraw 0.2\obj\Debug\ErsanDraw 0.2.exe
+M:\repos\Visial Studio\ErsanDraw0.1\ErsanDraw 0.2\ErsanDraw 0.2\obj\Debug\ErsanDraw 0.2.pdb
