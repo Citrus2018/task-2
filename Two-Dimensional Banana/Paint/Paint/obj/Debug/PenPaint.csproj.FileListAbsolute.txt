@@ -1,0 +1,10 @@
+C:\Users\warcr\OneDrive\Рабочий стол\ШАРПЫ\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\warcr\OneDrive\Рабочий стол\ШАРПЫ\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\warcr\OneDrive\Рабочий стол\ШАРПЫ\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\warcr\OneDrive\Рабочий стол\ШАРПЫ\Paint\Paint\obj\Debug\PenPaint.csprojAssemblyReference.cache
+C:\Users\warcr\OneDrive\Рабочий стол\ШАРПЫ\Paint\Paint\obj\Debug\Paint.Paint.resources
+C:\Users\warcr\OneDrive\Рабочий стол\ШАРПЫ\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\warcr\OneDrive\Рабочий стол\ШАРПЫ\Paint\Paint\obj\Debug\PenPaint.csproj.GenerateResource.cache
+C:\Users\warcr\OneDrive\Рабочий стол\ШАРПЫ\Paint\Paint\obj\Debug\PenPaint.csproj.CoreCompileInputs.cache
+C:\Users\warcr\OneDrive\Рабочий стол\ШАРПЫ\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\warcr\OneDrive\Рабочий стол\ШАРПЫ\Paint\Paint\obj\Debug\Paint.pdb
