@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 2744042,
+    "Username": "max3jk",
+    "Name": "MAX",
+    "Email": "max3jk@gmail.com",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/19e70045f0e2334e267a0c667b4a725c?s=80&d=identicon",
+    "PrivateToken": "b84b9728268db54249b2fa03806f7dd912c0039de3e578471d39a885a289fd8b",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
