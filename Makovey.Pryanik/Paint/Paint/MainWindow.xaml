@@ -1,0 +1,34 @@
+﻿<Window 
+            
+        x:Class="Paint.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Paint"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" MaxHeight="450" MaxWidth="800" >
+
+    <Grid x:Name="Grid11">
+        <Canvas x:Name="canvas" Background="#FFFFF3F3" PreviewMouseDown="MouseDown" PreviewMouseUp="MouseUp" PreviewMouseMove="MouseMove" Margin="10,23,99,28" MaxWidth="680" MaxHeight="400" >
+            <Canvas.OpacityMask>
+                <SolidColorBrush Color="Black">
+                    <SolidColorBrush.RelativeTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </SolidColorBrush.RelativeTransform>
+                </SolidColorBrush>
+            </Canvas.OpacityMask>
+        </Canvas>
+        <Button x:Name="CLear" Content="CLearAll" HorizontalAlignment="Left" Margin="722,23,0,0" VerticalAlignment="Top" Width="60" Height="46" Click="SomeButton"/>
+        <Button x:Name="Color" Content="Color" HorizontalAlignment="Left" Margin="722,74,0,0" VerticalAlignment="Top" Width="60" Height="46" Click="SomeButton"/>
+        <Button x:Name="Line" Content="Line" HorizontalAlignment="Left" Margin="722,125,0,0" VerticalAlignment="Top" Width="60" Height="46" Click="SomeButton"/>
+        <Button x:Name="Pen" Content="Pen" HorizontalAlignment="Left" Margin="722,176,0,0" VerticalAlignment="Top" Width="60" Height="46" Click="SomeButton"/>
+        <Button x:Name="ficha" Content="Ficha" HorizontalAlignment="Left" Margin="722,227,0,0" VerticalAlignment="Top" Width="60" Height="46" Click="SomeButton"/>
+        <Button x:Name="Rectangle" Content="Rectangle" HorizontalAlignment="Left" Margin="722,329,0,0" VerticalAlignment="Top" Width="60" Height="46" Click="SomeButton"/>
+    </Grid>
+</Window>
